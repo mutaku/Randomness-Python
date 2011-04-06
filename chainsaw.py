@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 ##########################################################
 # chainsaw -
 # Some Cookie Methods 
